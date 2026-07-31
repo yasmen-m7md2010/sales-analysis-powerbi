@@ -37,6 +37,9 @@ An interactive Power BI dashboard analyzing sales, shipping, product, and region
 - Total Sales by Year (trend line, 2011–2014)
 
 - Top 5 Customers by sales
+  
+![Sales Overview](1.png)
+
 
 ### 2️⃣ Products Analysis
 
@@ -47,6 +50,9 @@ An interactive Power BI dashboard analyzing sales, shipping, product, and region
 - Total Sales by Subcategory (donut chart)
 
 - Total Sales by Product Category
+  
+![Products Analysis](2.png)
+
 
 ### 3️⃣ Shipping Analysis
 
@@ -57,6 +63,9 @@ An interactive Power BI dashboard analyzing sales, shipping, product, and region
 - Orders by Status (Approved, In Process, Shipped, Cancelled, Rejected, Backordered)
 
 - Total Shipping Cost by Year
+  
+![Shipping Analysis](3.png)
+
 
 ### 4️⃣ Region
 
@@ -67,6 +76,9 @@ An interactive Power BI dashboard analyzing sales, shipping, product, and region
 - Total Sales by Territory Group (pie chart)
 
 - Full territory breakdown table (Sales, #of Orders, Avg Sales)
+  
+  ![Region](4.png)
+
 
 ## 🔑 Key Insights
 
@@ -77,20 +89,7 @@ An interactive Power BI dashboard analyzing sales, shipping, product, and region
 - Sales peaked in **2013** with a noticeable spike before dipping slightly in early 2014.
 
 - **Approved, In Process, and Shipped** orders make up the majority of order statuses, while cancellations and rejections remain relatively low.
-
-## 📁 Files
-- [⬇️ Download Power BI Project (.pbix)](Power_BI_project.pbix)
   
-## 📷 Preview
-
-![Sales Overview](1.png)
-
-![Products Analysis](2.png)
-
-![Shipping Analysis](3.png)
-
-![Region](4.png)
-
 ## 🚀 How to Use
 
 1. Download the `.pbix` file.
